@@ -1,13 +1,13 @@
-## Fallback Persona
-A fallback that utilizes the persona engine
+## Fallback Cakechat
+A fallback that utilizes the CakeChat Emotional Generative Dialog System
 
 ## Description
-Perosona is a Q and A machine learning algorithm that gives mycroft personality
+Allows Mycroft to give responses from CakeChat dialog system that is able to express emotions
 
 ## Examples
  * "What is your favorite color"
  * "what is the meaning of life"
 
 ## Credits
-Mycroft Ai Inc
+TREE Industries
 
